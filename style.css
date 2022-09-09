@@ -5,7 +5,8 @@ body {
 }
 
 h1,
-h2 {
+h2,
+h3 {
   padding: 0 3rem 0.5rem;
   font-weight: 600;
   line-height: 1;
@@ -17,8 +18,12 @@ h1 {
 h2 {
   font-size: 2rem;
 }
+h3 {
+  font-size: 1.5rem;
+}
 .col {
-  display: table-cell;
-  padding: 3rem;
-  vertical-align: top;
+  padding: 0 3rem 0.5rem;
+}
+.col h3{
+  padding: 0;
 }
