@@ -1,2 +1,1 @@
-# rsschool-cv
-rsschool-cv
+https://galamuz.github.io/rsschool-cv/cv
